@@ -22,13 +22,6 @@
     <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white&style=flat-square" alt="pre-commit">
   </a>
 </p>
-<p align="center">
-  <a href="https://pypi.org/project/owlery/">
-    <img src="https://img.shields.io/pypi/v/owlery.svg?logo=python&logoColor=fff&style=flat-square" alt="PyPI Version">
-  </a>
-  <img src="https://img.shields.io/pypi/pyversions/owlery.svg?style=flat-square&logo=python&amp;logoColor=fff" alt="Supported Python versions">
-  <img src="https://img.shields.io/pypi/l/owlery.svg?style=flat-square" alt="License">
-</p>
 
 A set of tools to support the KidVision research project
 
