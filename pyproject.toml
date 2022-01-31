@@ -5,7 +5,7 @@ description = "A set of tools to support the KidVision research project"
 authors = ["Taren Sanders <taren.sanders@acu.edu.au>"]
 license = "MIT"
 readme = "README.md"
-repository = "https://github.com/tarensanders/owlery"
+repository = "https://github.com/Motivation-and-Behaviour/owlery"
 documentation = "https://owlery.readthedocs.io"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
@@ -19,7 +19,7 @@ packages = [
 ]
 
 [tool.poetry.urls]
-"Bug Tracker" = "https://github.com/tarensanders/owlery/issues"
+"Bug Tracker" = "https://github.com/Motivation-and-Behaviour/owlery/issues"
 "Changelog" = "https://owlery.readthedocs.io/changelog.html"
 
 [tool.poetry.dependencies]

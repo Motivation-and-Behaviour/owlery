@@ -1,14 +1,14 @@
 # Owlery
 
 <p align="center">
-  <a href="https://github.com/tarensanders/owlery/actions?query=workflow%3ACI">
-    <img src="https://img.shields.io/github/workflow/status/tarensanders/owlery/CI/main?label=CI&logo=github&style=flat-square" alt="CI Status" >
+  <a href="https://github.com/Motivation-and-Behaviour/owlery/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/github/workflow/status/Motivation-and-Behaviour/owlery/CI/main?label=CI&logo=github&style=flat-square" alt="CI Status" >
   </a>
   <a href="https://owlery.readthedocs.io">
     <img src="https://img.shields.io/readthedocs/owlery.svg?logo=read-the-docs&logoColor=fff&style=flat-square" alt="Documentation Status">
   </a>
-  <a href="https://codecov.io/gh/tarensanders/owlery">
-    <img src="https://img.shields.io/codecov/c/github/tarensanders/owlery.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
+  <a href="https://codecov.io/gh/Motivation-and-Behaviour/owlery">
+    <img src="https://img.shields.io/codecov/c/github/Motivation-and-Behaviour/owlery.svg?logo=codecov&logoColor=fff&style=flat-square" alt="Test coverage percentage">
   </a>
 </p>
 <p align="center">
